@@ -1,0 +1,6 @@
+include " funciones.h"
+
+
+RUstas relativas:
+'./funciones.h" para csai todos los sistemas oprativos menos microsoft
+para windows ".\\funciones.h"
