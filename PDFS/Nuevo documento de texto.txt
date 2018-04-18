@@ -1,0 +1,7 @@
+estudiar estructuras 
+typedef struct
+
+isdigit(char)
+atoi
+atol
+atof
